@@ -1,3 +1,5 @@
+// See files for more details on the differences between class and functional components
+
 import ClassComponent from "./components/classComponent";
 import Car from "./components/car";
 import FunctionalComponent from "./components/functionalComponent";
